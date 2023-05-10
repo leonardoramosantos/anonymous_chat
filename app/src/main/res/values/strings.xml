@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Anonymous Chat</string>
+    <string name="app_description">Chat anônimo criado para a disciplina de Progração Móvel na UniFTEC</string>
+    <string name="app_creator_leonardo">Leonardo Ramos dos Santos</string>
+    <string name="app_creator_charles">Charles</string>
     <string name="about">Sobre o Sistema</string>
+    <string name="developed_by">Desenvolvido por:</string>
 </resources>
