@@ -13,4 +13,12 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Theme.NavigationBar" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:background">#3F51B5</item>
+    </style>
+
+    <style name="Theme.MainTextEditor" parent="ThemeOverlay.Material3.TextInputEditText">
+
+    </style>
 </resources>
