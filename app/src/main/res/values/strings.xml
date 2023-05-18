@@ -5,4 +5,6 @@
     <string name="app_creator_charles">Charles</string>
     <string name="about">Sobre o Sistema</string>
     <string name="developed_by">Desenvolvido por:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
